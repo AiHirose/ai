@@ -1,6 +1,6 @@
 # BHA2022
 #
-- Week 1: Introductions
+- [Week 1: Introductions](Introductions/index.md)
 - Week 2: Deconstructing the Lab
 - Week 3: Making the Lab
 - Week 4: Growing Materials
@@ -12,4 +12,4 @@
 - Week 10: Presentations
 - Final Project
 
-[about me](about/index.md)
+- [about me](about/index.md)
