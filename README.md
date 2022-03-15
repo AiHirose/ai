@@ -1,5 +1,5 @@
 # BHA2022
-#
+
 - [Week 1: Introductions](Week 1/index.md)
 - Week 2: Deconstructing the Lab
 - Week 3: Making the Lab
