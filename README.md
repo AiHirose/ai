@@ -1,6 +1,6 @@
 # BHA2022
 
-- [Week 1: Introductions](https://aihirose.github.io/ai/week1/)
+- [Week 1: Introductions](about/week1)
 - Week 2: Deconstructing the Lab
 - Week 3: Making the Lab
 - Week 4: Growing Materials
