@@ -1,6 +1,6 @@
 # BHA2022
 
-- [Week 1: Introductions](about/week1)
+- [Week 1: Introductions](about/week1.md)
 - Week 2: Deconstructing the Lab
 - Week 3: Making the Lab
 - Week 4: Growing Materials
