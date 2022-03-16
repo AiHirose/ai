@@ -12,6 +12,7 @@ Food tech has received a great deal of attention recently, but new food producti
 ### - __Alternative proteins History of research and development__
 Food and drink are essential for human survival, so research has continued due to external factors such as the food crisis caused by population growth, environmental problems, resource depletion and political instability.  
 
+{: align="center"}
 ![__Synthetic meat__](syntheticmeat.JPG)  
 
 This image shows a text on meat alternatives, published in a specialist journal in April 1970.  
