@@ -5,7 +5,8 @@ By the way, I don't speak any English! English is also being studied in combinat
 
 _ _ _
 
-## __Interesting theme__
+## __Interesting theme__  
+### - __Alternative meats and food tech in the spotlight in recent years__  
 Food tech (the art of using the latest technology to develop or discover entirely new ways of preparing food) is a very interesting subject!  
 Food tech has received a great deal of attention recently, but new food production methods have been researched for some time.  
 Food and drink are essential for human survival, so research has continued due to external factors such as the food crisis caused by population growth, environmental problems, resource depletion and political instability.  
