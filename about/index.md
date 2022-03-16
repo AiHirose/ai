@@ -11,3 +11,5 @@ Food and drink are essential for human survival, so research has continued due t
 This image shows a text on meat alternatives, published in a specialist journal in April 1970.  
 The title of the English version is "On the Imitation Meat from Soybean Proten."  
 "Imitation Meat" is not an appetising name for food, but names such as "synthetic meat" and "artificial meat" may also have had a futuristic and positive connotation at the time.  
+Surprisingly, in the 1970s, research and development of "petroleum protein", made from petroleum, and "natural gas protein", made from natural gas, was underway.  
+ 
