@@ -9,7 +9,7 @@ _ _ _
 ### - __Alternative meats and food tech in the spotlight in recent years__  
 Food tech (the art of using the latest technology to develop or discover entirely new ways of preparing food) is a very interesting subject!  
 Food tech has received a great deal of attention recently, but new food production methods have been researched for some time.  
-- ### __Alternative proteins History of research and development__
+### - __Alternative proteins History of research and development__
 Food and drink are essential for human survival, so research has continued due to external factors such as the food crisis caused by population growth, environmental problems, resource depletion and political instability.  
 ![__Synthetic meat__](syntheticmeat.JPG)  
 This image shows a text on meat alternatives, published in a specialist journal in April 1970.  
