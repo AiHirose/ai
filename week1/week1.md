@@ -7,6 +7,10 @@ My maternal grandfather was an alcoholic, my father was an alcoholic and I canno
 
 In February 2022, I had to undergo a full examination for suspected glaucoma. Glaucoma is a disease that causes a loss of vision, but according to my doctor, this is a complication of the myopia I inherited from my parents (because the proteins in my eyes are constitutionally prone to oval deformation) and is "100% genetic".
 
+_ _ _
+
 ## - __What is BioHacking? What does it mean for you?__  
+
+_ _ _
 
 ## - __Why are you interested in Bio?__  
