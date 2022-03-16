@@ -1,5 +1,7 @@
 # __Week1__  
 ## - __What is Life? How would you define it, can you actually define it?__  
+Life is defined by many factors. Respiration, metabolism, self-replication, etc.  
+
 ### __Heredity__  
 Although it is not the same as life itself, heredity is a very interesting function of life.  
 For example, the metabolism of alcohol is said to be genetically related.   About 44% of Japanese people do not have ALDH2, the enzyme that breaks down acetaldehyde, or their function is weak and acetaldehyde tends to accumulate.  
