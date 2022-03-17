@@ -5,3 +5,7 @@ _ _ _
 
 ## __News release__  
 _ _ _  
+## __Foodtech__  
+### __Entomophagy__
+* [Entomophagy-related companies and industry directory (chaos map) 2022, where you can buy entomophagy!](https://semitama.jp/column/3287/)  
+_ _ _  
