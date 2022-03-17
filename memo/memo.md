@@ -4,7 +4,7 @@ _ _ _
 * [miro ACADEMY](https://academy.miro.com/)
 
 ## __News release__  
-* 7 March is Fish Day! What is the global spread of "alternative seafood"?
+* 7 March is Fish Day! What is the global spread of "alternative seafood"?  
 * [Food@New](http://foodsnews.com/):Comprehensive website for new food products
 _ _ _  
 ## __Foodtech__  
