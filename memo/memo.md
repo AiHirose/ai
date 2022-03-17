@@ -4,6 +4,7 @@ _ _ _
 ### - __Entomophagy__  
 * [Entomophagy-related companies and industry directory (chaos map) 2022, where you can buy entomophagy!](https://semitama.jp/column/3287/)  
 
+
 ## __News release__  
 * 7 March is Fish Day! What is the global spread of "alternative seafood"?  
 * [Food@New](http://foodsnews.com/):Comprehensive website for new food products  
