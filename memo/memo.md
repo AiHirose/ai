@@ -5,7 +5,7 @@ _ _ _
 
 ## __News release__  
 * 7 March is Fish Day! What is the global spread of "alternative seafood"?
-* [Food@New](http://foodsnews.com/)Comprehensive website for new food products
+* [Food@New](http://foodsnews.com/):Comprehensive website for new food products
 _ _ _  
 ## __Foodtech__  
 ### __Entomophagy__  
