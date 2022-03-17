@@ -2,6 +2,6 @@
 
 _ _ _  
 * [miro](https://miro.com/ja/index/)
-<p class="indent">* [miro ACADEMY](https://academy.miro.com/)</p>
+* [miro ACADEMY](https://academy.miro.com/)
 
 ## __News release__
