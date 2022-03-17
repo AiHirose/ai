@@ -12,4 +12,8 @@
 - [Week 10: Presentations](week10/week10.md)
 - [Final Project](finalpj/finalpj.md)
 
-- [about me](about/index.md)
+- [about me](about/index.md)  
+
+_ _ _
+
+- [memo](memo/memo.md)  
