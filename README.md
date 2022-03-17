@@ -10,10 +10,8 @@
 - [Week 8: Pesonal Project](week8/week8.md)
 - [Week 9: Personal Project](week9/week9.md)
 - [Week 10: Presentations](week10/week10.md)
-- [Final Project](finalpj/finalpj.md)
+- [Final Project](finalpj/finalpj.md)  
 
 - [about me](about/index.md)  
-
-_ _ _
-
+_ _ _  
 * [memo](memo/memo.md)  
