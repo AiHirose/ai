@@ -4,6 +4,7 @@ _ _ _
 * [miro ACADEMY](https://academy.miro.com/)
 
 ## __News release__  
+* [Food@New](http://foodsnews.com/)Comprehensive website for new food products
 _ _ _  
 ## __Foodtech__  
 ### __Entomophagy__
