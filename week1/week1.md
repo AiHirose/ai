@@ -24,3 +24,7 @@ _ _ _
 
 ## - __Why are you interested in Bio?__  
 I joined BHA because I am interested in food tech technologies such as cultured meat, plant-based meat, and 3D food printers.  
+Looking at food, issues such as population growth, imbalance between supply and demand for food production due to climate change, pollution and environmental problems related to food production, and animal welfare have existed continuously for decades.  
+It is very interesting to see that biotechnology is one of the ways to solve or improve these challenges. 
+食料について見ると、人口増加や気候変動による食料生産の需給バランスの崩れ、食料生産にまつわる公害や環境問題、動物福祉などの課題は数十年前から継続して存在します。  
+これらの課題に対して、バイオが解決や改善の方法の一つとなっていることは非常に興味深いです。
