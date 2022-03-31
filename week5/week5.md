@@ -1,4 +1,4 @@
-# __Week5__ 
+# __Week5__
 __0329__  
 Homework:  
 - Find and describe 3 genetically modified organisms.  
@@ -19,6 +19,7 @@ According to the special sales information on the flyer, they have been sold at 
 [For those with high blood pressure! ◆Functional Foods ◆GABA Mini Tomatoes](https://poke-m.com/products/242690?list=SearchedProducts)  
 
 __Genome editing snapper__  
+[Genome-edited thicker-fleshed sea bream can be sold...Kyoto University and Kindai University jointly develop(Yomiuri Shimbun 2021/09/17)](https://www.yomiuri.co.jp/science/20210917-OYT1T50206/)  
 [What is genome editing? (Center for the Promotion of Fish Meals)](https://osakana.suisankai.or.jp/s-other/5103)  
 [Development and Significance of Genome-Edited Farmed Fish" (March 17, 2021)](https://www.mhlw.go.jp/content/12401000/000753910.pdf)  
 
@@ -36,6 +37,7 @@ __高GABAトマト__
 [血圧が高めの方へ！◆機能性表示食品◆GABAミニトマト](https://poke-m.com/products/242690?list=SearchedProducts)  
 
 __ゲノム編集の鯛__  
+[ゲノム編集で肉厚に改良したマダイ、販売可能に…京大と近大が共同開発（読売新聞 2021/09/17）](https://www.yomiuri.co.jp/science/20210917-OYT1T50206/)  
 [ゲノム編集とは？（魚食普及推進センター）](https://osakana.suisankai.or.jp/s-other/5103)  
 [「ゲノム編集養殖魚の開発と意義」(令和３年３月１７日)](https://www.mhlw.go.jp/content/12401000/000753910.pdf)  
 
