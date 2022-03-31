@@ -7,7 +7,7 @@ Homework:
 
 Preparation for next week:  
 Make 3 Slides about yourself and your project idea to present at metaPhorest on Monday.  
-https://docs.google.com/presentation/d/18tRqriBjDN8XXk1Iq6rBHvmKJfITsKkAKko0964241w/edit?usp=sharing （編集済み）   
+https://docs.google.com/presentation/d/18tRqriBjDN8XXk1Iq6rBHvmKJfITsKkAKko0964241w/edit?usp=sharing     
 
 I searched supermarkets such as Seiyu, Life, Maruetsu Petit, Olympic, but could not find GABA tomatoes.  
 According to the special sales information on the flyer, they have been sold at Delicia, Every Big Day, Esmart, Toko Store, etc.  
