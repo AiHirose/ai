@@ -26,7 +26,7 @@ __Genome editing snapper__
 [What is genome editing? (Center for the Promotion of Fish Meals)](https://osakana.suisankai.or.jp/s-other/5103)  
 [Development and Significance of Genome-Edited Farmed Fish" (March 17, 2021)](https://www.mhlw.go.jp/content/12401000/000753910.pdf)  
 
-__Genetically Modified Salmon__
+__Genetically Modified Salmon__  
 [The ban on genetically modified salmon farming in the U.S. will soon be on supermarket shelves... (FNN Prime Online, April 6, 2019)](https://www.fnn.jp/articles/-/7459)  
 [Genetically modified salmon to be approved (nature news)September 16, 2010 Vol. 467 (259)](https://www.technologyreview.jp/s/227982/whats-on-the-gmo-menu-fast-growing-salmon-and-slow-swimming-tuna/)  
 [Distribution of Genetically Modified Salmon Begins in the U.S. Will Ecosystems and Consumer Rights Be Protected（Ethical Food News Weekly, June 23, 2021)](https://www.ethicalfood.online/2021/06/230945.html)  
