@@ -20,6 +20,7 @@ According to the special sales information on the flyer, they have been sold at 
 
 __Genome editing snapper__  
 - In September 2021, Japan's Ministry of Health, Labor, and Welfare accepted a "genome-edited food" notification submitted by a university-initiated startup company for a sea bream whose meat was improved using genome editing technology to efficiently modify genes. This is the second case in Japan, following tomatoes, which contain a large amount of ingredients that help suppress increases in blood pressure, and will allow the sea bream to be distributed and marketed commercially.  
+![__Genome editing snapper__](ゲノム編集マダイ.JPG)
 [Genome-edited thicker-fleshed sea bream can be sold...Kyoto University and Kindai University jointly develop(Yomiuri Shimbun 2021/09/17)](https://www.yomiuri.co.jp/science/20210917-OYT1T50206/)  
 [What is genome editing? (Center for the Promotion of Fish Meals)](https://osakana.suisankai.or.jp/s-other/5103)  
 [Development and Significance of Genome-Edited Farmed Fish" (March 17, 2021)](https://www.mhlw.go.jp/content/12401000/000753910.pdf)  
@@ -38,7 +39,8 @@ __高GABAトマト__
 [血圧が高めの方へ！◆機能性表示食品◆GABAミニトマト](https://poke-m.com/products/242690?list=SearchedProducts)  
 
 __ゲノム編集の鯛__  
-- 2021年9月、日本の厚生労働省は、遺伝子を効率よく改変するゲノム編集技術を使って肉厚に改良したマダイについて、大学発の新興企業が提出した「ゲノム編集食品」の届け出を受理した。血圧の上昇を抑える働きがある成分を多く含むトマトに続き国内２例目で、マダイは流通や市販ができるようになる。    
+- 2021年9月、日本の厚生労働省は、遺伝子を効率よく改変するゲノム編集技術を使って肉厚に改良したマダイについて、大学発の新興企業が提出した「ゲノム編集食品」の届け出を受理した。血圧の上昇を抑える働きがある成分を多く含むトマトに続き国内２例目で、マダイは流通や市販ができるようになる。   
+![__ゲノム編集マダイ__](ゲノム編集マダイ.JPG)
 [ゲノム編集で肉厚に改良したマダイ、販売可能に…京大と近大が共同開発（読売新聞 2021/09/17）](https://www.yomiuri.co.jp/science/20210917-OYT1T50206/)  
 [ゲノム編集とは？（魚食普及推進センター）](https://osakana.suisankai.or.jp/s-other/5103)  
 [「ゲノム編集養殖魚の開発と意義」(令和３年３月１７日)](https://www.mhlw.go.jp/content/12401000/000753910.pdf)  
